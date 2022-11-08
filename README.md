@@ -1,13 +1,15 @@
 ### Hi, I'm Guilherme Santos 👋
 🇧🇷
 - 📚 I'm improving my knowledge in algorithms and data structure
-- 💻 I'm studying Web Development
+- 💻 I'm studying .net development
 - 🏫 Computer Science at the Federal Institute of Bahia
 <h2>Stack</h2>
 🔴 JavaScript, HTML and CSS
 🔴 C/C++
-🔴 React
+🔴 TypeScript
 🔴 Node
+🔴 .NET
+🔴 C#
 <br><br><br><br>
 <div> 
   <a href = "mailto:guilhermejeffofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
