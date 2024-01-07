@@ -1,7 +1,7 @@
 ### Hi, I'm Guilherme Santos 👋
 🇧🇷
 - 📚 I'm improving my knowledge in algorithms and data structure
-- 💻 I'm studying .net development
+- 💻 I'm studying java development
 - 🏫 Computer Science at the Federal Institute of Bahia
 <h2>Stack</h2>
 🔴 JavaScript, HTML and CSS
