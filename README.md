@@ -6,7 +6,9 @@
 <h2>Stack</h2>
 🔴 JavaScript, HTML and CSS
 🔴 Java
-🔴 Spring Boot
+🔴 C/C++
+🔴 TypeScript
+
 
 <br><br><br><br>
 <div> 
