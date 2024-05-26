@@ -5,9 +5,10 @@
 - 🏫 Computer Science at the Federal Institute of Bahia
 <h2>Stack</h2>
 🔴 JavaScript, HTML and CSS
-🔴 Java
+🔴 Java, SpringBoot and MySQL
 🔴 C/C++
 🔴 TypeScript
+
 
 
 <br><br><br><br>
