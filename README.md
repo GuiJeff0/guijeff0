@@ -10,6 +10,12 @@
 🔴 TypeScript
 
 
+| Linux | Kali |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
+
+
 
 <br><br><br><br>
 <div> 
