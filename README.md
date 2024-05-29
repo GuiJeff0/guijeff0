@@ -2,7 +2,7 @@
 🇧🇷
 - 📚 I'm improving my knowledge in algorithms and data structure
 - 💻 Full Stack Software Developer
-- 🏫 Computer Science at the Federal Institute of Bahia
+- 🏫 Computer Science at the Federal Institute of Education, Science and Technology of Bahia
 <h2>Stack</h2>
 🔴 JavaScript, HTML and CSS
 🔴 Java, SpringBoot and MySQL
