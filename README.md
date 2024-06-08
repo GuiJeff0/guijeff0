@@ -7,7 +7,6 @@
 🔴 JavaScript, HTML and CSS
 🔴 Java, SpringBoot and MySQL
 🔴 C/C++
-🔴 TypeScript
 🔴 PHP and Laravel
 
 
