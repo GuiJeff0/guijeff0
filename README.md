@@ -8,6 +8,7 @@
 🔴 Java, SpringBoot and MySQL
 🔴 C/C++
 🔴 TypeScript
+🔴 PHP and Laravel
 
 
 ## OSs
