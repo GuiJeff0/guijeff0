@@ -4,7 +4,7 @@
 - 💻 Full Stack Software Developer
 - 🏫 Computer Science at the Federal Institute of Education, Science and Technology of Bahia
 <h2>Stack</h2>
-🔴 TypeScriot/JS, HTML and CSS
+🔴 TypeScript/JS, HTML and CSS
 🔴 C/C++
 🔴 PHP and Laravel
 
