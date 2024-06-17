@@ -1,7 +1,6 @@
 ### Hi, I'm Guilherme Santos 👋
 🇧🇷
 - 📚 I'm improving my knowledge in algorithms and data structure
-- 💻 Full Stack Software Developer
 - 🏫 Computer Science at the Federal Institute of Education, Science and Technology of Bahia
 <h2>Stack</h2>
 🔴 TypeScript/JS, HTML and CSS
