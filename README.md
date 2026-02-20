@@ -3,9 +3,9 @@
 - 📚 I'm improving my knowledge in algorithms and data structure
 - 🏫 Computer Science at the Federal Institute of Education, Science and Technology of Bahia
 <h2>Stack</h2>
-🔴 JavaScript, HTML and CSS
+🔴 SQL
 🔴 C/C++
-🔴 PHP and Laravel
+🔴 Python (Pandas)
 
 
 ## OSs
