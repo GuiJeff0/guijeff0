@@ -11,7 +11,6 @@
   - Dashboard Development
   - Data Visualization
   - API Development
-  - Compliance & Business Intelligence Solutions
 
 ---
 
@@ -36,7 +35,6 @@
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -45,25 +43,6 @@
 |------------|-------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Mint" alt="Linux Mint" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
 
----
-
-## 🎯 Current Focus
-- 🤖 Python Automation for Business Processes
-- 🛠️ Data Pipelines with Airflow, PostgreSQL & Docker
-- 📈 Financial Market Data Analysis
-- 🌐 API Development & Integration
-- 📊 Advanced Dashboards with Power BI & Superset
-- ☁️ Cloud & Infrastructure for scalable data solutions
-
----
-
-## 📌 Featured Interests
-- Machine Learning for Financial Markets
-- Data Warehousing
-- Compliance Automation
-- Business Intelligence
-- Software Architecture
-- Distributed Systems
 
 ---
 
